@@ -1,0 +1,4 @@
+#Tue Aug 29 20:56:11 GMT+01:00 2023
+base.0=C\:\\Users\\ASUS CORE I5\\Desktop\\clean_arch_bookly_app-main\\clean_arch_bookly_app-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
